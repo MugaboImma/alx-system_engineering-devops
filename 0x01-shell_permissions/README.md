@@ -1,1 +1,1 @@
-My empty file
+Execute permission
