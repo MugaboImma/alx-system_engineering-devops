@@ -1,1 +1,1 @@
-my name is emmy
+whoami
